@@ -1,0 +1,10 @@
+En flex box vamos a tener filas o columnas 
+para filas y columnas sera hasta cssgrid.
+
+eje principal main axis -
+eje transversal crass axis |
+propiedad reflejo en css se puede hacer que el main axis sea cross axis se intercambien.
+
+propiedad display 
+
+section.container
